@@ -1,6 +1,4 @@
+# Reuters D3D-KB Custom Firmware
 
-
-# reuters-d3dkb-keyboard
-
-Custom firmware for Reuters D3D-KB keyboard
+![Reuters D3D-KB](https://raw.githubusercontent.com/crackcell/reuters-d3dkb-keyboard/master/keyboard.jpg)
 
